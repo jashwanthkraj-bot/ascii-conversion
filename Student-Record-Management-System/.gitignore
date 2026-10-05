@@ -1,0 +1,5 @@
+student
+student.exe
+*.o
+.vscode/
+.idea/
